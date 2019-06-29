@@ -1,3 +1,57 @@
 body {
-    background-image: url("../assets/images/background1.png")
+    background-image: url("../assets/images/background1.png");
+    }
+
+    
+header {
+    background-color: white;
+    height: 75px;
+    border-bottom-style: solid; color: grey;
+    
+} 
+    
+
+h1 {
+    background-color: #4aaaa5;
+    color: white;
+    height: 45px;
+    position: relative;
+    width: 10%;
+    display: inline-block;
+    margin-left: 273px;
+    padding: .25%;
+
 }
+
+a {
+    text-decoration: none;
+} 
+
+nav {
+    text-align: right;
+    margin-right: 100px;
+    margin-top: -95px
+   }
+
+
+#biopic {
+    float: left;
+}
+
+.content {
+    width: 960px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    color: #4aaaa5;
+    
+}
+
+footer {
+    background-color: #666666;
+    text-align: center;
+    height: 50px;
+    border-top: 8px solid #4aaaa5;
+    margin-top: 315px;
+       }
+
