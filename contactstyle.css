@@ -44,6 +44,7 @@ nav {
     margin-left: auto;
     margin-right: auto;
     color: #4aaaa5;
+    padding: 10px;
 }
 
 footer {
@@ -88,8 +89,16 @@ footer {
     display: inline-block;
     border: 1px solid #ccc;
     border-radius: 4px;
-   box-sizing: border-box;
-  background-color: #f2f2f2;
-  padding: 20px;
+    box-sizing: border-box;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
 
+.msgbox {
+    width: 100%;
+}
+
+#button {
+    background-color:  #4aaaa5;
+    color:  white;
 }
