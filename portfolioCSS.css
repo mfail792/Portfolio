@@ -91,3 +91,51 @@ footer {
     padding: 2%;
     margin-top: -2%;
 }
+
+
+#hanger {
+    padding: 2%;
+    float: left;
+    margin-left: -265px;
+    padding: 5px;
+    margin-top: 20px;
+    background-color: #4aaaa5
+   
+}
+
+#triv {
+
+    float: right;
+    margin-right: -240px;
+    margin-top: -19px;
+    padding: 5px;
+    background-color: #4aaaa5
+    
+}
+
+#RPGER {
+    float: left;
+    margin-left: -250px;
+    padding: 5px;
+    background-color: #4aaaa5
+   
+}
+
+#Minnie {
+float: right;
+margin-right: -280px;
+margin-top: -10px;
+padding: 5px;
+background-color: #4aaaa5
+
+}
+
+#RPSER {
+    float: left;
+    margin-left: 170px;
+    margin-top: -20px;
+    padding: 5px;
+    background-color: #4aaaa5
+   
+}
+
