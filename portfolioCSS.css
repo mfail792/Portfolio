@@ -23,14 +23,29 @@ h1 {
 
 }
 
+nav a {
+    color: #999;
+    text-decoration: none;
+    margin-left: 15px;
+    display: inline-block;
+    border-left: 1px solid #efefef;
+    padding-left: 15px;
+    line-height: 18px;
+}
+
+nav a:first-child {
+    border-left: 0 none;
+ 
+}
+
 a {
     text-decoration: none;
 } 
 
 nav {
-    text-align: right;
-    margin-right: 100px;
-    margin-top: -95px
+
+        float: right;
+        margin-top: 25px;
    }
 
 
