@@ -1,5 +1,5 @@
 body {
-    background-image: url("../assets/images/background1.png");
+    background-image: url("./assets/images/background1.png");
     font-size: 18px;
     line-height: 34px;
     font-family: Arial, Helvetica, sans-serif;
@@ -140,8 +140,3 @@ footer {
    max-width: 960px;
    margin: 0 auto;
    }
-
-
-
-
-
