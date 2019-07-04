@@ -1,11 +1,10 @@
 body {
-    background-image: url("../assets/images/background1.png");
+    background-image: url("./assets/images/background1.png");
     font-size: 18px;
     line-height: 34px;
     font-family: Arial, Helvetica, sans-serif;
     color: #777;
     }
-
     
 #greetings {
     background: #fff;
@@ -17,6 +16,9 @@ body {
     position: fixed;
     width: 100%;
 } 
+p:last-child {
+    margin-bottom: 0;
+}
     
 
 #logo {
@@ -34,37 +36,29 @@ body {
 
 }
 
-
 a {
     text-decoration: none;
 } 
 
-nav     {
+nav     {   
         float: right;
         margin-top: 25px;
-            }
+             }
 
-   nav a {
-    color: #999;
-    text-decoration: none;
-    margin-left: 15px;
-    display: inline-block;
-    border-left: 1px solid #efefef;
-    padding-left: 15px;
-    line-height: 18px;
-
-   }
-
-   h1 {
-       font-size: 30px;
-       line-height: 49px;
-       border-bottom: 3px solid #ccc;
-       padding-bottom: 20px;
-   }
-
-   nav a:first-child {
-       border-left: 0 none;
-   }
+             nav a {
+                color: #999;
+                text-decoration: none;
+                margin-left: 15px;
+                display: inline-block;
+                border-left: 1px solid #efefef;
+                padding-left: 15px;
+                line-height: 18px;
+            
+               }
+            
+nav a:first-child {
+      border-left: 0 none;
+}
 
 .main-section {
     width: 100%;
@@ -74,19 +68,28 @@ nav     {
     color: #4aaaa5;
     padding: 30px;
     float: left;
-      
-}
-      
-#main-container {
-    padding-top: 130px;
-}
+    border-bottom: 3px solid #ccc;
+     }
 
-.image1 {
+     h1 {
+        font-size: 30px;
+        line-height: 49px;
+        border-bottom: 3px solid #ddd;
+        padding-bottom: 20px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-weight: 700;
+        color: #4aaaa5;
+        margin-bottom: 20px;
+    
+    }
+        
+#auth-image {
     width: 200px;
-    height: auto;
-    margin-top: 10px;
-    float: left; 
-    margin-right:25px;
+        height: auto;
+        margin-top: 10px;
+        float: left;
+        margin-right: 25px;
+        
 }
 
 footer {
@@ -100,9 +103,13 @@ footer {
     text-align: center;
     }
 
-    .container {
-        width: 100%;
-        max-width: 960px;
-        margin: 0 auto;
-        clear: both;
-    }
+
+.container {
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+    clear: both;
+}
+#main-container {
+    padding-top: 130px;
+}

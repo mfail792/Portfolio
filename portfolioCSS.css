@@ -103,10 +103,14 @@ nav {
    h1 {
     font-size: 30px;
     line-height: 49px;
-    border-bottom: 3px solid #ccc;
+    border-bottom: 3px solid #ddd;
     padding-bottom: 20px;
-}
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 700;
+    color: #4aaaa5;
+    margin-bottom: 20px;
 
+}
 .main-section {
     width: 100%;
     margin: 0 0 40px 0;
@@ -115,6 +119,7 @@ nav {
     color: #4aaaa5;
     padding: 30px;
     float: left;
+    border-bottom: 3px solid #ccc;
       
 }
 #main-container {
@@ -133,7 +138,6 @@ footer {
     text-align: center;
    
     }
-
 
   .container {
    width: 100%;

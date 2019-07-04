@@ -16,7 +16,8 @@ body {
     position: fixed;
     width: 100%;
 } 
-    
+
+
 
 #logo {
     width: 250px;
@@ -65,7 +66,8 @@ nav a:first-child {
     color: #4aaaa5;
     padding: 30px;
     float: left;
-     
+    border-bottom: 3px solid #ccc;
+        
 }
 
 footer {
@@ -132,4 +134,19 @@ footer {
     max-width: 960px;
     margin: 0 auto;
     clear: both;
+}
+
+h1 {
+    font-size: 30px;
+    line-height: 49px;
+    border-bottom: 3px solid #ddd;
+    padding-bottom: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 700;
+    color: #4aaaa5;
+    margin-bottom: 20px;
+
+}
+#main-container {
+    padding-top: 130px;
 }
