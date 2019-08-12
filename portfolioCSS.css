@@ -124,6 +124,10 @@ nav {
     border-bottom: 3px solid #ccc;
       
 }
+
+a {
+    color: white;
+}
 #main-container {
     padding-top: 130px;
 }
