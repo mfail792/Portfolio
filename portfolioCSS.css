@@ -18,6 +18,7 @@ body {
         width: 100%;
     } 
 
+
     #logo {
         width: 250px;
         height: 90px;
@@ -43,6 +44,7 @@ body {
         line-height: 18px;
     
        }
+
 
 nav a:first-child {
     border-left: 0 none;
@@ -77,6 +79,11 @@ a {
     width: 100%;
     border: 0 none;
     opacity: .8;
+}
+
+#gif {
+    color: white;
+    font-weight: 300;
 }
 
 .work h3 {
@@ -144,3 +151,4 @@ footer {
    max-width: 960px;
    margin: 0 auto;
    }
+ 
