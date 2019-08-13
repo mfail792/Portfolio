@@ -151,3 +151,9 @@ h1 {
 #main-container {
     padding-top: 130px;
 }
+
+@media (max-width: 600px) {
+    footer {
+        width: 100%;
+    }
+}
