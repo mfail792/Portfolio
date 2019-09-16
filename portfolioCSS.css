@@ -81,6 +81,19 @@ a {
     opacity: .8;
 }
 
+.links {
+    color: blue;
+    text-align: right;
+    margin: 40px;
+   
+}
+
+u {
+    margin: 40px;
+    text-align: right;
+  
+}
+
 .work h3 {
     border-bottom: 0px;
     background: #4aaaa5;
