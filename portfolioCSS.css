@@ -33,6 +33,7 @@ body {
         text-decoration: none;
     
     }
+  
 
     nav a {
         color: #999;
@@ -63,9 +64,10 @@ a {
     margin-right: 25px;
 }
 
+
 .work {
-    width: 274px;
-    overflow: auto;
+    width: 200px;
+    height: 200px;
     position: relative;
     float: left;
     margin: 20px 0 25px;
@@ -75,10 +77,12 @@ a {
     margin-right: 40px;
 }
 
-.work img {
-    width: 100%;
+ img {
+    width: 150%;
     border: 0 none;
     opacity: .8;
+    padding: 10px;
+    overflow: hidden;
 }
 
 .links {
