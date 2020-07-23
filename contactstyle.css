@@ -3,6 +3,7 @@ body {
     font-size: 18px;
     line-height: 34px;
     font-family: Arial, Helvetica, sans-serif;
+    position: relative;
     color: #777;
     }
     
@@ -74,6 +75,7 @@ footer {
     background: #666;
     color: #fff;
     padding: 30px 0;
+    bottom: 0;
     clear: both;
     border-top: 8px solid #4aaaa5;
     color: #ccc;
@@ -165,8 +167,3 @@ h1 {
     padding-top: 130px;
 }
 
-@media (max-width: 600px) {
-    footer {
-        width: 100%;
-    }
-}

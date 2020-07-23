@@ -4,6 +4,7 @@ body {
     line-height: 34px;
     font-family: Arial, Helvetica, sans-serif;
     color: #777;
+    position: relative;
     }
     
 #greetings {
@@ -97,6 +98,7 @@ footer {
     color: #fff;
     padding: 30px 0;
     clear: both;
+    bottom: 0;
     border-top: 8px solid #4aaaa5;
     color: #ccc;
     font-size: 12px;
@@ -114,8 +116,3 @@ footer {
     padding-top: 130px;
 }
 
-@media (max-width: 600px) {
-    footer {
-        width: 100%;
-    }
-}
