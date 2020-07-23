@@ -1,6 +1,6 @@
-Thanks for checking out my github page!
+Thanks for checking out my github page!  Below is a link to my portfolio so you can see some projects I have been involved with.
 
-Link to my portfolio:  https://mfail792.github.io/Portfolio/
+Portfolio:  https://mfail792.github.io/Portfolio/
 
 Cheers,
 
