@@ -93,6 +93,17 @@ nav a:first-child {
         
 }
 
+footer {
+    background: #666;
+    color: #fff;
+    padding: 30px 0;
+    clear: both;
+    bottom: 0;
+    border-top: 8px solid #4aaaa5;
+    color: #ccc;
+    font-size: 12px;
+    text-align: center;
+    }
 
 
 .container {
